@@ -1,38 +1,17 @@
-# create-svelte
+## Summary Solver
+### A solver for the web game Summary
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-## Creating a project
+#### Frontend: Svelte
+#### Backend: static file serving, AWS s3
 
-If you're seeing this, you've probably already done this step. Congrats!
+#### Major Functions: Can solve any combination for the game Summary, Will tell you if there is no solution possible for the current combination
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+#### Reason for Creation: I saw a tweet by Rich Harris the creator of svelte that he liked this game called Summary. I tried to solve it for like 30 minutes and got frustrated so i created a python script to solve it. Then I decied to make an overkill frontend for it in svelte 5 because I wanted to learn about it anyway.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+#### Potential monetization model: no monetization, page ads, links to other word/number games.
 
-## Developing
+#### Market Size: All the people who aren't good at Summary
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+### [Summary Solver](https://www.carsonshort.com/summarysolver/)
+![Summary Solver Logo](https://www.carsonshort.com/summarysolver/solvfav.png "Summary Solver")
