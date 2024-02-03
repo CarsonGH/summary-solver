@@ -237,14 +237,15 @@ const handleKeyDown=(e)=>{
     <div class="complete">
         <h3>Solved!</h3>
         <br/>
+        <button onclick={resetboard}>Reset Board</button>
+        <br/>
+        <br/>
         <p>
             The puzzle has been solved<br/>
             You can solve another or share this site with others.
             <br/><br/>
             <button onclick={copied.length>21?CopyLink:()=>{}}>{copied}</button>
             <br/>
-            <br/>
-            <button onclick={resetboard}>Reset Board</button>
         </p>
     </div>
     {/if}
