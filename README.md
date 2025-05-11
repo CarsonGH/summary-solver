@@ -13,5 +13,5 @@
 
 #### Market Size: All the people who aren't good at Summary
 
-### [Summary Solver](https://www.carsonshort.com/summarysolver/)
-![Summary Solver Logo](https://www.carsonshort.com/summarysolver/solvfav.png "Summary Solver")
+### [Summary Solver](https://carsonshort.com/summarysolver/)
+![Summary Solver Logo](https://carsonshort.com/summarysolver/solvfav.png "Summary Solver")
